@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>connect to whatsapp</label>
+    <protected>false</protected>
+    <values>
+        <field>Endpoint__c</field>
+        <value xsi:type="xsd:string">https://graph.facebook.com/v19.0/phone-id/messages</value>
+    </values>
+    <values>
+        <field>Permanent_Token__c</field>
+        <value xsi:type="xsd:string">fjcbibnibAN1uXPjBLMBO32IblpuE9dPZAt2xHo7jHZBoygyQObfkjbneknfoienoenkhkJVPpMdirfZAZC2mJNxBDuRTHjBrMgHldMyU6MzM88yccLAmqfb4O95wu8Sq2245y9YjfQCj6JKt2fRtLV3bZBTtla0Ho4h8IBzrp9aS6G9Q4XKeaLY6aLNew83DGp</value>
+    </values>
+</CustomMetadata>
